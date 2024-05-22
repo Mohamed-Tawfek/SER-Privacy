@@ -1,76 +1,68 @@
-# Privacy Policy Template
+
+Privacy Policy
+This privacy policy applies to the SER app (hereby referred to as "Application") for mobile devices that was created by Mohamed Tawfek (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
 
-This Privacy Policy Template is covers the general privacy concerns and regulations. I hope you find it useful and a good starting point in compiling your own privacy policy for use on your own website or app. Feel free to add stuff that I haven't added, and remove stuff that you don't like. If there are ways that I can do things better, you should absolutely report issues or send me a pull request because I love them so much.
+Information Collection and Use
+The Application collects information when you download and use it. This information may include information such as
+
+Your device's Internet Protocol address (e.g. IP address)
+The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
+The time spent on the Application
+The operating system you use on your mobile device
+
+The Application does not gather precise information about the location of your mobile device.
 
 
-## What is a Privacy Policy
-
-A privacy policy is a description of what you do with personal data.  The critical things to describe in the policy are how you and your website or app collect, use, store, and share or disclose information about people. Providing a privacy policy also helps your users understand what happens to information about them.
-
-**Note:** A Privacy Policy is not the same as the Terms and Conditions agreement. A Terms and Conditions is the agreement where you include the rules and guidelines that users must agree to in order to use your website or app.
+The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
 
-## What is a Personal Data
-
-Personal data is any kind of data or information that can be considered personal (identifies an individual):
-
-* First and last name
-* Email address
-* Billing and shipping address
-* Credit card information
-* And so on
+For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to mohammedtawfek13@gmail.com. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
 
-## When is a Privacy Policy required
-
-The Privacy Policy is required by law if you collect personal data. One should be provided where your website or app does anything with personal data. A Privacy Policy is required regardless of the type of platform your business operates on or what kind of industry you’re in:
-
-* Website
-* WordPress blog, or any other platform: Joomla, Drupal etc
-* E-commerce store
-* Mobile app: iOS, Android or Windows Phone
-* Facebook app
-* Desktop app
-* Digital product
+Third Party Access
+Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
 
-## How this Privacy Policy Template works
+Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
-This document has been drafted in Markdown (MD) and in plain text (TXT), and can be converted to HTML using a huge number of open source and commercially available tools.
+Google Play Services
 
-Elements that need to be filled in have been marked up with double brackets, as follows:
+The Service Provider may disclose User Provided and Automatically Collected Information:
 
-	[["website" or "app"]]
-	[["we" or "I"]]
-	[["us" or "me"]]
-	[["our" or "my"]]
+as required by law, such as to comply with a subpoena, or similar legal process;
+when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
-Make sure to find and fill in them all!
-
-
-## Disclaimer
-
-You are free to use it on your own website or app. But before using this Privacy Policy Template you should be aware that you are responsible for its contents when published to your own website or app and that includes the accuracy of information.
-
-This Privacy Policy Template is not legal advice, and is no substitute for a real live lawyer. Some places legally require that you have a privacy policy, and require that you describe certain things in it. Some places have (very specific) rules about what you are and aren't allowed to do with info about users. You should definitely talk with a lawyer about all this stuff, and they should definitely read and review your policy.
-
-You should also know that this Privacy Policy Template is provided without any warranty, express or implied, to the fullest extent possible.
+Opt-Out Rights
+You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
 
-## License
+Data Retention Policy
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at mohammedtawfek13@gmail.com and they will respond in a reasonable time.
 
-This Privacy Policy Template is licensed under the [GNU General Public License, version 3 (GPLv3)](http://www.gnu.org/licenses/gpl-3.0.html) and is distributed free of charge.
+
+Children
+The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
 
 
-## Author
+The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (mohammedtawfek13@gmail.com) so that they will be able to take the necessary actions.
 
-Arthur Garegnyan
 
-* Email: arthurgareginyan@gmail.com
+Security
+The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
 
-* GitHub: [https://github.com/ArthurGareginyan/](https://github.com/ArthurGareginyan/)
 
-* Website: [http://www.arthurgareginyan.com](http://www.arthurgareginyan.com)
+Changes
+This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-* Donation: [http://www.arthurgareginyan.com/donate.html](http://www.arthurgareginyan.com/donate.html)
+
+This privacy policy is effective as of 2024-05-22
+
+
+Your Consent
+By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+
+
+Contact Us
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at mohammedtawfek13@gmail.com.
